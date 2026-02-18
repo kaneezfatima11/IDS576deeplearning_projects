@@ -1,0 +1,9 @@
+# Model checkpoints
+*.pt
+
+# Dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
